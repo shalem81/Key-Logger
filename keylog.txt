@@ -1,0 +1,51 @@
+2025-05-23 15:35:33,367 - Key pressed: fAdd commentMore actions
+2025-05-23 15:35:33,647 - Key pressed: u
+2025-05-23 15:35:33,726 - Key pressed: b
+2025-05-23 15:35:33,854 - Key pressed: f
+2025-05-23 15:35:33,869 - Key pressed: e
+2025-05-23 15:35:34,277 - Special key pressed: Key.backspace
+2025-05-23 15:35:34,522 - Key pressed: e
+2025-05-23 15:35:34,921 - Special key pressed: Key.enter
+2025-05-23 15:35:35,297 - Special key pressed: Key.tab
+2025-05-23 15:35:35,501 - Special key pressed: Key.caps_lock
+2025-05-23 15:35:36,003 - Special key pressed: Key.caps_lock
+2025-05-23 15:35:36,258 - Special key pressed: Key.shift
+2025-05-23 15:35:37,253 - Special key pressed: Key.shift
+2025-05-23 15:35:37,593 - Key pressed: n
+2025-05-23 15:35:37,735 - Key pressed: c
+2025-05-23 15:35:38,004 - Key pressed: n
+2025-05-23 15:35:38,193 - Key pressed: e
+2025-05-23 15:35:38,319 - Key pressed: i
+2025-05-23 15:35:38,415 - Key pressed: u
+2025-05-23 15:35:38,535 - Key pressed: h
+2025-05-23 15:35:38,667 - Key pressed: e
+2025-05-23 15:35:38,704 - Key pressed: w
+2025-05-23 15:35:38,792 - Key pressed: l
+2025-05-23 15:35:38,999 - Key pressed: f
+2025-05-23 15:35:39,187 - Special key pressed: Key.shift_r
+2025-05-23 15:35:39,418 - Special key pressed: Key.enter
+2025-05-23 15:35:39,645 - Key pressed: e
+2025-05-23 15:35:39,645 - Key pressed: f
+2025-05-23 15:35:39,818 - Special key pressed: Key.enter
+2025-05-23 15:35:39,818 - Key pressed: w
+2025-05-23 15:35:40,483 - Special key pressed: Key.esc
+2025-05-23 15:38:57 - Special key pressed: Key.caps_lock
+2025-05-23 15:38:58 - Special key pressed: Key.caps_lock
+2025-05-23 15:38:58 - Special key pressed: Key.shift
+2025-05-23 15:38:58 - Special key pressed: Key.space
+2025-05-23 15:38:59 - Special key pressed: Key.shift
+2025-05-23 15:38:59 - Key pressed: n
+2025-05-23 15:38:59 - Key pressed: c
+2025-05-23 15:38:59 - Key pressed: k
+2025-05-23 15:39:00 - Key pressed: n
+2025-05-23 15:39:00 - Key pressed: d
+2025-05-23 15:39:00 - Key pressed: o
+2025-05-23 15:39:00 - Special key pressed: Key.tab
+2025-05-23 15:39:01 - Special key pressed: Key.space
+2025-05-23 15:39:01 - Special key pressed: Key.caps_lock
+2025-05-23 15:39:01 - Special key pressed: Key.tab
+2025-05-23 15:39:02 - Special key pressed: Key.caps_lock
+2025-05-23 15:39:02 - Special key pressed: Key.enter
+2025-05-23 15:39:02 - Special key pressed: Key.backspace
+2025-05-23 15:39:02 - Special key pressed: Key.caps_lock
+2025-05-23 15:39:05 - Special key pressed: Key.esc
